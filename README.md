@@ -1,4 +1,4 @@
-# Fish Traps
+# Ender Dragon Be Gone
 
 > A Minecraft 1.14 data pack that prevents the dragon from destroying more end-based blocks
 
